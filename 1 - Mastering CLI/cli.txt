@@ -1,0 +1,25 @@
+Command Line Interface
+
+Create a Directory/Folder
+-mkdir
+
+Remove Directory/Folder
+-rmdir
+
+Changing Directory/Folder
+-cd [Directory/Folder Name]
+
+Go back to the Previous Folder
+-cd ..
+
+Creating/ Adding a file
+-touch
+
+Removing a file
+-rm [filename.extension]
+
+Showing list of Directory/Folder
+-ls
+
+Clearing the terminal
+-clear
